@@ -1,0 +1,7 @@
+location         = "East US 2"
+project_name     = "AZSEC-SOC"
+resource_group_name = "rg-azsec-soc-lab"
+admin_username   = "azureadmin"
+admin_password   = "CHANGE-ME-StrongPassword123!"
+alert_email      = "your-email@example.com"
+vm_size          = "Standard_B2s"
